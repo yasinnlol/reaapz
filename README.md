@@ -1,7 +1,7 @@
 
 <h1 align="center">🦖 yasinlol
 </h1>
-<p align="left"> <img src="https://gpvc.arturio.dev/duhastnhlatte" alt="duhastnhlatte" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/yasinlol" alt="yasinlol" /> </p>
 
 - 🌀 I’m currently working on [phantomsecurity](https://phantomsec.cc/)
 
